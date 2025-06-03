@@ -1,4 +1,3 @@
-Harika, şimdi kod yapısına uygun şekilde bir README dosyası hazırladım. Bu dosya, sınıflar, constructor kullanımı ve nullability gibi Kotlin konularını içeren, ancak tasarım içermeyen bir mobil uygulamaya dair net açıklamalar içermektedir.
 
 ---
 
@@ -91,8 +90,6 @@ Kodda **birinciFonksiyon** ve **ikinciFonksiyon** gibi sayaç işlemleri yapan m
 - **Fork** alarak geliştirmeler yapabilirsiniz.
 - `Pull Request` açarak önerilerinizi paylaşabilirsiniz.
 
----
-Great, now I have prepared a README file in accordance with the code structure. This file contains clear explanations of a mobile application that includes Kotlin topics such as classes, constructor usage and nullability, but does not include design.
 
 ---
 
