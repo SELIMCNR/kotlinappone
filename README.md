@@ -17,7 +17,7 @@ Bu proje, **Kotlin** kullanılarak geliştirilmiş, ancak görsel arayüz içerm
 
 1. **Projeyi klonlayın**:
    ```bash
-   git clone https://github.com/kullanıcı_adı/proje_adı.git
+   git clone https://github.com/SELIMCNR/kotlinappone.git
    ```
 
 2. **Android Studio ile açın** ve `MainActivity.kt` dosyasını inceleyin.
@@ -109,7 +109,7 @@ This project is a **mobile application** developed using **Kotlin**, but does no
 
 1. **Clone the project**:
 ```bash
-git clone https://github.com/user_name/project_name.git
+git clone https://github.com/SELIMCNR/kotlinappone.git
 ```
 
 2. **Open with Android Studio** and examine the `MainActivity.kt` file.
